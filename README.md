@@ -1,7 +1,7 @@
 # 🎓 Student Performance Prediction System
 
 > An end-to-end Machine Learning system that predicts student academic performance
-> using 15 behavioural, demographic, and academic features — deployed as an
+> using 15 behavioural, demographic, and academic features deployed as an
 > interactive Flask web application with REST API.
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://python.org)
@@ -32,8 +32,8 @@
 
 ## 🔍 Overview
 
-This project demonstrates the **complete machine learning lifecycle** — from raw data through
-deployment — within a single, well-structured codebase. It is built to portfolio-grade standard
+This project demonstrates the **complete machine learning lifecycle**  from raw data through
+deployment within a single, well-structured codebase. It is built to portfolio-grade standard
 for graduate school applications (MSc AI / Data Science) and professional employer review.
 
 **Key highlights:**
@@ -329,9 +329,7 @@ Content-Type: application/json
 ## 👤 Author
 
 **Abdullah Hussain**  
-BS Computer Science · NFC Institute of Engineering & Technology, Multan  
-Roll: 2K23-BSCS-432 · CGPA: 3.90  
-Aspiring MSc AI/Data Science — UCD / UCC / Trinity College Dublin
+
 
 ---
 
